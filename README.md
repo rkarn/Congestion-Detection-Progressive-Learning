@@ -1,5 +1,9 @@
 # Congestion-Detection-Progressive-Learning
 
+This repository contains the source code to reproduce the outcome of following paper:
+- `Karn, Rupesh Raj, Prabhakar Kudva, and Ibrahim M. Elfadel. "Criteria for learning without forgetting in artificial neural networks." In 2019 IEEE International Conference on Cognitive Computing (ICCC), pp. 90-97. IEEE, 2019.`
+- `Karn, Rupesh Raj, Prabhakar Kudva, and Ibrahim M. Elfadel. "Learning without forgetting: A new framework for network cyber security threat detection." IEEE Access 9 (2021): 137042-137062.`
+
 This work uses synaptic weight consolidation methodology implemented in 
 
     https://github.com/ganguli-lab/pathint
